@@ -1,0 +1,4 @@
+# Project exclude paths
+/API/target/
+/target/
+/v1_13_R2/target/
