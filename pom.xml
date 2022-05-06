@@ -23,7 +23,6 @@
     <module>Plugin</module>
   </modules>
 
-  <!-- Define the repo here since multiple modules will be using it -->
   <repositories>
     <repository>
       <id>spigot</id>
