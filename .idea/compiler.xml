@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="abstractionexampleplugin-v1_18_R2" />
         <module name="abstractionexampleplugin-api" />
         <module name="abstractionexampleplugin-v1_13_R2" />
       </profile>
@@ -16,9 +17,5 @@
         <module name="abstractionexampleplugin" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="abstractionexampleplugin-v1_7_R2" target="1.5" />
-      <module name="abstractionexampleplugin-v1_7_R3" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -21,6 +21,7 @@
     <module>API</module>
     <module>v1_13_R2</module>
     <module>Plugin</module>
+    <module>v1_18_R2</module>
   </modules>
 
   <repositories>
